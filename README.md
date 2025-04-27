@@ -49,4 +49,22 @@ Welcome to my collection of university class projects! Each project highlights t
 
 ---
 
+### 🚗 **Car Project (Embedded Systems)**
+
+**Course:** Embedded Systems  
+**Description:** Developed a system to connect two ESP32 devices (remote and car) to the Arduino Cloud using C++ and the Arduino IDE, enabling remote control and monitoring of the car's functions.  
+**Technologies Used:** C++, Arduino IDE, ESP32, Arduino Cloud  
+**GitHub Repository:** [View Project](https://github.com/mohammad-faqusa/ESP32_Project)
+
+---
+
+### 🌐 **Blynk MQTT IoT Project**
+
+**Course:** Internet of Things (IoT)  
+**Description:** Developed an IoT solution using two ESP32 devices, Wokwi simulator, and MQTT protocol to communicate with a HiveMQ broker and control devices through Blynk. The project demonstrates remote device control and monitoring using MQTT messages.  
+**Technologies Used:** C++, ESP32, Wokwi, Blynk, MQTT, HiveMQ Broker  
+**GitHub Repository:** [View Project](https://github.com/mohammad-faqusa/blynk_broker_mqtt_project)
+
+---
+
 ✨ **Enjoy exploring my projects and feel free to reach out for more details!**
